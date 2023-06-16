@@ -1,6 +1,5 @@
 
-
-div{
+div {
     border: 3px solid black;
     margin: 20px 25px;
     padding: 10px;
@@ -8,17 +7,21 @@ div{
     border-radius: 45px;
     box-shadow: 10px 10px 5px #000000;
 }
-#foto_persona{
+
+
+#foto_persona {
     width: 90px;
     float: left;
     border-radius: 50%;
 }
 
-.cuerpo_pag{
+.cuerpo_pag {
     text-align: center;
     font-family: 'Raleway', sans-serif;
     background: radial-gradient(circle, #3b3d3d, #2065d0);
 }
-h1,h2,h3{
+
+h1, h2, h3 {
     text-shadow: 2px 2px 4px #ffffff;
 }
+
